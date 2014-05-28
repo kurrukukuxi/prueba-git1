@@ -35,7 +35,7 @@ package complejo;
 
 import java.lang.Math;
 
-public class Complejo
+public class Complejo implements Cloneable
 {
 	//Atributos
 	private double mod;
