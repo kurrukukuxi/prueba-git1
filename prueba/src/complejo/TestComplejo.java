@@ -1,5 +1,6 @@
 package complejo;
 
+// Esto es un test para la clase Complejo.
 public class TestComplejo
 {
 	public static void main(String[] args)
